@@ -5,18 +5,17 @@ function agregarAmigo(){
     if (nombreIngresado==""){
         alert('Porfavor inserte un nombre');
     }else{
-        // Agrega datos a la lista.
         amigos.push(nombreIngresado);
         console.log(amigos);
         let tamanoAmigos=amigos.length;
-        //Limpia la caja
+        //Limpia la caja        
         document.querySelector('#amigo').value='';
         actualizarAmigos(amigos,tamanoAmigos);
     }
 }
 function actualizarAmigos(amigos,tamanoAmigos){
     let listAmigos=document.querySelector('#listaAmigos');
-    var newli=document.createElement("li");
+    var newli=document.createElement("li");    
     newli.innerHTML=amigos[tamanoAmigos-1];
     listAmigos.appendChild(newli);  
 }
