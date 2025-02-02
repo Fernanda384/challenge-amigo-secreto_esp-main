@@ -15,9 +15,10 @@ function agregarAmigo(){
     actualizarAmigos(amigos,nombreIngresado);
 }
 function actualizarAmigos(amigos, nombreIngresado){
-    document.querySelector('#listaAmigos').value='';
-    document.querySelector('#listaAmigos').value=amigos;
-
+    let listAmigos=document.querySelector('#listaAmigos');
+    var newli=document.createElement("li");
+    newli.innerHTML=amigos[amigos.length-1];
+    listAmigos.appendChild(newli);  
 }
 function sortearAmigo(){
 
