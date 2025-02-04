@@ -12,7 +12,7 @@ El juego consiste en encontrar al amigo secreto entre los nombres ingresados por
 ![image](https://github.com/user-attachments/assets/610c2a7e-2d21-49ba-adaa-609413c3c988)
 - Debe indicar al usuario que debe ingresar un nombre válido para ser añadido a la lista de amigos.
 ![image](https://github.com/user-attachments/assets/f5339e43-e79b-4ae5-9212-844277eaa140)
-- Para encontrar al amigo secreto, el cual se mostrará en pantalla, se realizará a lazar según los nombres ingresados por el usuario dando clic al botón "Sortear amigo".
+- Para encontrar al amigo secreto, el cual se mostrará en pantalla, se realizará a lazar según los nombres ingresados por el usuario *dando clic al botón "Sortear amigo".*
 ![image](https://github.com/user-attachments/assets/cb8f5958-b466-4adf-aeef-6d7abdd1a1ba)
 ### El proyecto fue construido con:
 -	JavaScript.
