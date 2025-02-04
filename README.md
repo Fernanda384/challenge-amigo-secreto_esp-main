@@ -7,11 +7,12 @@ Este proyecto es una challenge, de #Alura Latam y #Oracle, que tiene como fin pr
 El juego consiste en encontrar al amigo secreto entre los nombres ingresados por el usuario. Los nombres ingresados se mostrarán en pantalla al ser añadido.
 ### ¿Cuáles son las funcionalidades del proyecto?
 - El proyecto permite el ingreso de varios nombres para ser añadidos a la lista de amigos. Al igual que mostrar cada nombre ingresado en pantalla, para que el usuario pueda observarlos.
+**Para añadir un nombre a la lista se debe ingresar el nombre, y luego dar clic en el botón "Añadir".*
 ![image](https://github.com/user-attachments/assets/37ed63de-2251-4d20-9a53-5d0f27016ba3)
 ![image](https://github.com/user-attachments/assets/610c2a7e-2d21-49ba-adaa-609413c3c988)
 - Debe indicar al usuario que debe ingresar un nombre válido para ser añadido a la lista de amigos.
 ![image](https://github.com/user-attachments/assets/f5339e43-e79b-4ae5-9212-844277eaa140)
-- En cuanto a encontrar al amigo secreto, el cual se mostrará en pantalla, se realizará a lazar según los nombres ingresados por el usuario.
+- Para encontrar al amigo secreto, el cual se mostrará en pantalla, se realizará a lazar según los nombres ingresados por el usuario dando clic al botón "Sortear amigo".
 ![image](https://github.com/user-attachments/assets/cb8f5958-b466-4adf-aeef-6d7abdd1a1ba)
 ### El proyecto fue construido con:
 -	JavaScript.
