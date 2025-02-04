@@ -1,7 +1,7 @@
 ![Imagen amigo secreto](https://github.com/user-attachments/assets/a3265047-d68c-4db1-b495-4a737430b1e8)
 # ¡Hola!
 En esta sección se hablará un poco sobre ¿en qué consiste el proyecto? ¿Cuáles son las funcionalidades del proyecto? ¿Quiénes aportaron a este proyecto? ¿Cuál es el estado del proyecto? y ¡algunas demostraciones de la funcionalidad del proyecto!
-Este proyecto es una challenge de #Alura Latam y #Oracle en el programa ONE, con el fin de practicar lógica de programación con JavaScript. 
+Este proyecto es una challenge, de #Alura Latam y #Oracle, que tiene como fin practicar lógica de programación con JavaScript. 
 ## ¡Juguemos al amigo secreto!
 ¡Juguemos al amigo secreto! es el nombre del proyecto, el cual se encuentra completado y público. 
 El juego consiste en encontrar al amigo secreto entre los nombres ingresados por el usuario. Los nombres ingresados se mostrarán en pantalla al ser añadido.
